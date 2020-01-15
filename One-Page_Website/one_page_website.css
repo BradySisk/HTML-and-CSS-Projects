@@ -1,0 +1,15 @@
+
+
+.submission-form {
+    font-family:"Times New Roman", Times, serif;
+    font-size:"15";
+}
+
+
+.submission-form {
+    max-width:500px;
+    margin:3rem auto;
+    border:3px solid #E74;
+    border-radius: 80px 40px;
+    padding:2rem;
+}
